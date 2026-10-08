@@ -1,0 +1,4 @@
+Student_ID,Name,Department,Math,Physics,CS,Attendance,Total_Marks,Average_Marks,Grade,Status
+101,Ayaan,BCA,85,78,92,88,255,85.0,A,Pass
+102,Priya,BCA,30,30,30,75,90,30.0,F,Fail
+103,Rahul,BSc,90,85,88,95,263,87.66666666666667,A,Pass
