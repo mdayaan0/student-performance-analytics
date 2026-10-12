@@ -5,7 +5,7 @@ import functions as fn
 
 
 df = pd.read_csv('students.csv')
-print("--- Initial Student Data ---")
+print(" Initial Student Data ")
 print(df.head())
 
 
@@ -26,7 +26,7 @@ df['Grade'] = grades
 df['Status'] = status
 
 
-print("\n--- Performance Analysis ---")
+print("\n Performance Analysis ")
 
 
 class_avg = np.mean(df['Average_Marks'])
